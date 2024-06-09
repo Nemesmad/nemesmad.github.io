@@ -33,6 +33,8 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -670,6 +672,22 @@ section {
 
 .features .tab-pane p:last-child {
   margin-bottom: 0;
+}
+
+/*/////////////////////////////////////////////////////////////////
+galeria
+////////////////////////////////////////////////////////////////////*/
+.container-render {
+  background-color: #aedba481; /* cor cinza claro */
+  padding: 2%;
+}
+.container-char {
+  background-color: #c7a4db81; /* cor cinza claro */
+  padding: 2%;
+}
+.container-multi {
+  background-color: #cfdba481; /* cor cinza claro */
+  padding: 2%;
 }
 
 /*--------------------------------------------------------------
